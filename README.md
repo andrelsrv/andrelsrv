@@ -126,5 +126,5 @@ Repository: [Pesquisa Acadêmica](https://github.com/andrelsrv/PesquisaAcademica
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-enginnerandrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/enginnerandrel/])
-[![Email](https://img.shields.io/badge/Email-andreluis.alvescarvalho125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluis.alvescarvalho125@gmail.com)
+[![Email](https://img.shields.io/badge/Email-andrels.code@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrels.code@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-andrelsrv-181717?style=for-the-badge&logo=github)]((https://github.com/andrelsrv))
