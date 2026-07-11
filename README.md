@@ -1,10 +1,14 @@
-# *André Luís*
+# *Andrelsrv*
 
 - Electrical Engineering student at the Federal University of Piauí (UFPI)
 - I'm focused on Power Systems, Automation, and Programming using SQL, Python, C++/C# and machine learning
+  
+ Main interests:
+- Systems Automation
+- Machine Learning
+- Data Analysis & SQL
+-  Smart Grids & Power Systems Modeling
 ---
-
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=andrelsrv&show_icons=true&include_all_commits=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api?username=andrelsrv&show_icons=true&include_all_commits=true&theme=ayu-mirage)
 
 
